@@ -25,6 +25,8 @@
 
 <img align="right" src="https://github.com/Leecason/Leecason/raw/master/shin_chan.gif" width="165">
 
+![trophy](https://github-profile-trophy.vercel.app/?username=leecason)
+
 ![Leecason's github stats](https://github-readme-stats.vercel.app/api?username=Leecason&show_icons=true&title_color=19CAAD&icon_color=19CAAD)
 
 <img align="right" src="https://github.com/Leecason/Leecason/raw/master/maruko.gif" width="180">
