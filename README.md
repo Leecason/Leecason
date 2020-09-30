@@ -32,3 +32,5 @@
 <img align="right" src="https://github.com/Leecason/Leecason/raw/master/maruko.gif" width="180">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leecason&layout=compact)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leecason&repo=dive-into-vue)](https://github.com/leecason/dive-into-vue)
