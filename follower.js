@@ -50,7 +50,9 @@ const { GH_TOKEN: githubToken } = process.env;
      * get followers
      */
     const followersRes =
-      await octokit.rest.users.listFollowersForAuthenticatedUser({});
+      await octokit.rest.users.listFollowersForAuthenticatedUser({
+        per_page: 100,
+      });
     const { data: followers } = followersRes;
     const newContent = getNewContent(followers);
     fs.writeFileSync(`${__dirname}/README.md`, newContent);
