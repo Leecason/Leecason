@@ -1,0 +1,48 @@
+name: Update followers
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-followers:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    permissions:
+      actions: write
+      checks: write
+      contents: write
+      deployments: write
+      issues: write
+      packages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write
+
+    steps:
+      - uses: actions/checkout@v2
+      - run: yarn install --registry=https://registry.yarnpkg.com
+
+      - name: Create local changes
+        run: node follower.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "leecason0722@gmail.com"
+          git config --local user.name "Leecason"
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "update followers"
+
+      - name: Pull changes
+        run: git pull -r
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: ${{ github.ref }}
