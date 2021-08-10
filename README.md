@@ -5,7 +5,7 @@
 - 👨‍💻 **Working:** Web Development, a Vue.js, React.js nerd.
 - 🌱 **Learning:** Full-Stack | Open-Source 🔥
 - 😄 **Pronouns:** He/Him/His
-- 🏢 **Company:** [ByteDance](https://bytedance.com/)
+- 🏢 **Company:** [Bytedance](https://github.com/bytedance)
 - ⚡ **Fun fact:** Cantopop 🎧, Gunpla 🤖️, Lego 🧩
 
 > El Psy Kongroo
