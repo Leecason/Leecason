@@ -269,6 +269,13 @@
              <a href="https://github.com/TosakaUCW">TosakaUCW</a>
             </td>
             <td align="center">
+              <a href="https://github.com/Khetwal-om">
+                <img src="https://avatars.githubusercontent.com/u/36092598?v=4" width="50px;" alt="Khetwal-om"/>
+                </a>
+              <br />
+             <a href="https://github.com/Khetwal-om">Khetwal-om</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/songispm">
                 <img src="https://avatars.githubusercontent.com/u/38745323?v=4" width="50px;" alt="songispm"/>
                 </a>
@@ -296,16 +303,16 @@
               <br />
              <a href="https://github.com/SilenceRichard">SilenceRichard</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/tungtb-94">
                 <img src="https://avatars.githubusercontent.com/u/43735484?v=4" width="50px;" alt="tungtb-94"/>
                 </a>
               <br />
              <a href="https://github.com/tungtb-94">tungtb-94</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/Olvi73">
                 <img src="https://avatars.githubusercontent.com/u/46037012?v=4" width="50px;" alt="Olvi73"/>
                 </a>
