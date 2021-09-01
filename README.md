@@ -130,6 +130,13 @@
              <a href="https://github.com/FreeFaller">FreeFaller</a>
             </td>
             <td align="center">
+              <a href="https://github.com/zjsxfly">
+                <img src="https://avatars.githubusercontent.com/u/16100230?v=4" width="50px;" alt="zjsxfly"/>
+                </a>
+              <br />
+             <a href="https://github.com/zjsxfly">zjsxfly</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/littlecxm">
                 <img src="https://avatars.githubusercontent.com/u/16154023?v=4" width="50px;" alt="littlecxm"/>
                 </a>
@@ -143,16 +150,16 @@
               <br />
              <a href="https://github.com/nszbf">nszbf</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/CharlesMoone">
                 <img src="https://avatars.githubusercontent.com/u/17830748?v=4" width="50px;" alt="CharlesMoone"/>
                 </a>
               <br />
              <a href="https://github.com/CharlesMoone">CharlesMoone</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/chiakilalala">
                 <img src="https://avatars.githubusercontent.com/u/18342566?v=4" width="50px;" alt="chiakilalala"/>
                 </a>
@@ -194,16 +201,16 @@
               <br />
              <a href="https://github.com/bhaltair">bhaltair</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/Garrik-Liu">
                 <img src="https://avatars.githubusercontent.com/u/21211356?v=4" width="50px;" alt="Garrik-Liu"/>
                 </a>
               <br />
              <a href="https://github.com/Garrik-Liu">Garrik-Liu</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/Echo009">
                 <img src="https://avatars.githubusercontent.com/u/24402043?v=4" width="50px;" alt="Echo009"/>
                 </a>
@@ -245,16 +252,16 @@
               <br />
              <a href="https://github.com/zuxian">zuxian</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/huangbohang">
                 <img src="https://avatars.githubusercontent.com/u/31870764?v=4" width="50px;" alt="huangbohang"/>
                 </a>
               <br />
              <a href="https://github.com/huangbohang">huangbohang</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/huyaocode">
                 <img src="https://avatars.githubusercontent.com/u/32541237?v=4" width="50px;" alt="huyaocode"/>
                 </a>
@@ -296,16 +303,16 @@
               <br />
              <a href="https://github.com/Yokioo">Yokioo</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/SilenceRichard">
                 <img src="https://avatars.githubusercontent.com/u/42994114?v=4" width="50px;" alt="SilenceRichard"/>
                 </a>
               <br />
              <a href="https://github.com/SilenceRichard">SilenceRichard</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/tungtb-94">
                 <img src="https://avatars.githubusercontent.com/u/43735484?v=4" width="50px;" alt="tungtb-94"/>
                 </a>
@@ -347,7 +354,9 @@
               <br />
              <a href="https://github.com/niko127">niko127</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/pav324">
                 <img src="https://avatars.githubusercontent.com/u/78670862?v=4" width="50px;" alt="pav324"/>
                 </a>
