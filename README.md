@@ -327,13 +327,6 @@
              <a href="https://github.com/Olvi73">Olvi73</a>
             </td>
             <td align="center">
-              <a href="https://github.com/Niaz1374">
-                <img src="https://avatars.githubusercontent.com/u/49669213?v=4" width="50px;" alt="Niaz1374"/>
-                </a>
-              <br />
-             <a href="https://github.com/Niaz1374">Niaz1374</a>
-            </td>
-            <td align="center">
               <a href="https://github.com/shivangraikar">
                 <img src="https://avatars.githubusercontent.com/u/51766272?v=4" width="50px;" alt="shivangraikar"/>
                 </a>
@@ -354,9 +347,7 @@
               <br />
              <a href="https://github.com/niko127">niko127</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/pav324">
                 <img src="https://avatars.githubusercontent.com/u/78670862?v=4" width="50px;" alt="pav324"/>
                 </a>
