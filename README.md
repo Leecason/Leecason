@@ -283,6 +283,13 @@
              <a href="https://github.com/Khetwal-om">Khetwal-om</a>
             </td>
             <td align="center">
+              <a href="https://github.com/viarotel">
+                <img src="https://avatars.githubusercontent.com/u/38282758?v=4" width="50px;" alt="viarotel"/>
+                </a>
+              <br />
+             <a href="https://github.com/viarotel">viarotel</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/songispm">
                 <img src="https://avatars.githubusercontent.com/u/38745323?v=4" width="50px;" alt="songispm"/>
                 </a>
@@ -296,16 +303,16 @@
               <br />
              <a href="https://github.com/ljmjiudu">ljmjiudu</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/Yokioo">
                 <img src="https://avatars.githubusercontent.com/u/42674780?v=4" width="50px;" alt="Yokioo"/>
                 </a>
               <br />
              <a href="https://github.com/Yokioo">Yokioo</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/SilenceRichard">
                 <img src="https://avatars.githubusercontent.com/u/42994114?v=4" width="50px;" alt="SilenceRichard"/>
                 </a>
@@ -347,7 +354,9 @@
               <br />
              <a href="https://github.com/niko127">niko127</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/pav324">
                 <img src="https://avatars.githubusercontent.com/u/78670862?v=4" width="50px;" alt="pav324"/>
                 </a>
