@@ -297,15 +297,22 @@
              <a href="https://github.com/songispm">songispm</a>
             </td>
             <td align="center">
+              <a href="https://github.com/kovoor">
+                <img src="https://avatars.githubusercontent.com/u/40061443?v=4" width="50px;" alt="kovoor"/>
+                </a>
+              <br />
+             <a href="https://github.com/kovoor">kovoor</a>
+            </td>
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/ljmjiudu">
                 <img src="https://avatars.githubusercontent.com/u/42228457?v=4" width="50px;" alt="ljmjiudu"/>
                 </a>
               <br />
              <a href="https://github.com/ljmjiudu">ljmjiudu</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/Yokioo">
                 <img src="https://avatars.githubusercontent.com/u/42674780?v=4" width="50px;" alt="Yokioo"/>
                 </a>
@@ -347,16 +354,16 @@
               <br />
              <a href="https://github.com/j0rtiz">j0rtiz</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/niko127">
                 <img src="https://avatars.githubusercontent.com/u/59310951?v=4" width="50px;" alt="niko127"/>
                 </a>
               <br />
              <a href="https://github.com/niko127">niko127</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/pav324">
                 <img src="https://avatars.githubusercontent.com/u/78670862?v=4" width="50px;" alt="pav324"/>
                 </a>
