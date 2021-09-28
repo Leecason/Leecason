@@ -334,6 +334,13 @@
              <a href="https://github.com/tungtb-94">tungtb-94</a>
             </td>
             <td align="center">
+              <a href="https://github.com/sereneinserenade">
+                <img src="https://avatars.githubusercontent.com/u/45892659?v=4" width="50px;" alt="sereneinserenade"/>
+                </a>
+              <br />
+             <a href="https://github.com/sereneinserenade">sereneinserenade</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/Olvi73">
                 <img src="https://avatars.githubusercontent.com/u/46037012?v=4" width="50px;" alt="Olvi73"/>
                 </a>
@@ -347,16 +354,16 @@
               <br />
              <a href="https://github.com/shivangraikar">shivangraikar</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/j0rtiz">
                 <img src="https://avatars.githubusercontent.com/u/58676509?v=4" width="50px;" alt="j0rtiz"/>
                 </a>
               <br />
              <a href="https://github.com/j0rtiz">j0rtiz</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/niko127">
                 <img src="https://avatars.githubusercontent.com/u/59310951?v=4" width="50px;" alt="niko127"/>
                 </a>
