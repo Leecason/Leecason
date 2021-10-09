@@ -290,22 +290,29 @@
              <a href="https://github.com/TosakaUCW">TosakaUCW</a>
             </td>
             <td align="center">
+              <a href="https://github.com/wiki6">
+                <img src="https://avatars.githubusercontent.com/u/34829635?v=4" width="50px;" alt="wiki6"/>
+                </a>
+              <br />
+             <a href="https://github.com/wiki6">wiki6</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/mangonihao">
                 <img src="https://avatars.githubusercontent.com/u/35483387?v=4" width="50px;" alt="mangonihao"/>
                 </a>
               <br />
              <a href="https://github.com/mangonihao">mangonihao</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/Khetwal-om">
                 <img src="https://avatars.githubusercontent.com/u/36092598?v=4" width="50px;" alt="Khetwal-om"/>
                 </a>
               <br />
              <a href="https://github.com/Khetwal-om">Khetwal-om</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/viarotel">
                 <img src="https://avatars.githubusercontent.com/u/38282758?v=4" width="50px;" alt="viarotel"/>
                 </a>
@@ -347,16 +354,16 @@
               <br />
              <a href="https://github.com/SilenceRichard">SilenceRichard</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/tungtb-94">
                 <img src="https://avatars.githubusercontent.com/u/43735484?v=4" width="50px;" alt="tungtb-94"/>
                 </a>
               <br />
              <a href="https://github.com/tungtb-94">tungtb-94</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/sereneinserenade">
                 <img src="https://avatars.githubusercontent.com/u/45892659?v=4" width="50px;" alt="sereneinserenade"/>
                 </a>
@@ -398,7 +405,9 @@
               <br />
              <a href="https://github.com/niko127">niko127</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/pav324">
                 <img src="https://avatars.githubusercontent.com/u/78670862?v=4" width="50px;" alt="pav324"/>
                 </a>
