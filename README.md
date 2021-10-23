@@ -65,13 +65,6 @@
              <a href="https://github.com/SolidZORO">SolidZORO</a>
             </td>
             <td align="center">
-              <a href="https://github.com/fahchen">
-                <img src="https://avatars.githubusercontent.com/u/855678?v=4" width="50px;" alt="fahchen"/>
-                </a>
-              <br />
-             <a href="https://github.com/fahchen">fahchen</a>
-            </td>
-            <td align="center">
               <a href="https://github.com/mekery">
                 <img src="https://avatars.githubusercontent.com/u/1023474?v=4" width="50px;" alt="mekery"/>
                 </a>
@@ -99,16 +92,16 @@
               <br />
              <a href="https://github.com/sleepsky520">sleepsky520</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/punit5658">
                 <img src="https://avatars.githubusercontent.com/u/4838480?v=4" width="50px;" alt="punit5658"/>
                 </a>
               <br />
              <a href="https://github.com/punit5658">punit5658</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/KkkkKernc">
                 <img src="https://avatars.githubusercontent.com/u/6129982?v=4" width="50px;" alt="KkkkKernc"/>
                 </a>
@@ -150,16 +143,16 @@
               <br />
              <a href="https://github.com/nszbf">nszbf</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/CharlesMoone">
                 <img src="https://avatars.githubusercontent.com/u/17830748?v=4" width="50px;" alt="CharlesMoone"/>
                 </a>
               <br />
              <a href="https://github.com/CharlesMoone">CharlesMoone</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/chiakilalala">
                 <img src="https://avatars.githubusercontent.com/u/18342566?v=4" width="50px;" alt="chiakilalala"/>
                 </a>
@@ -201,16 +194,16 @@
               <br />
              <a href="https://github.com/jeromehan">jeromehan</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/bhaltair">
                 <img src="https://avatars.githubusercontent.com/u/19891945?v=4" width="50px;" alt="bhaltair"/>
                 </a>
               <br />
              <a href="https://github.com/bhaltair">bhaltair</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/Garrik-Liu">
                 <img src="https://avatars.githubusercontent.com/u/21211356?v=4" width="50px;" alt="Garrik-Liu"/>
                 </a>
@@ -244,6 +237,13 @@
                 </a>
               <br />
              <a href="https://github.com/pftom">pftom</a>
+            </td>
+            <td align="center">
+              <a href="https://github.com/iciel">
+                <img src="https://avatars.githubusercontent.com/u/29134253?v=4" width="50px;" alt="iciel"/>
+                </a>
+              <br />
+             <a href="https://github.com/iciel">iciel</a>
             </td>
             <td align="center">
               <a href="https://github.com/sheldonbaby">
