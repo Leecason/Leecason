@@ -421,6 +421,13 @@
               <br />
              <a href="https://github.com/4nalog">4nalog</a>
             </td>
+            <td align="center">
+              <a href="https://github.com/Jupnnn">
+                <img src="https://avatars.githubusercontent.com/u/93683618?v=4" width="50px;" alt="Jupnnn"/>
+                </a>
+              <br />
+             <a href="https://github.com/Jupnnn">Jupnnn</a>
+            </td>
               </tr>
 </table>
 <!--END_SECTION:followers-->
