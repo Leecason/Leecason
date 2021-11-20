@@ -392,22 +392,29 @@
              <a href="https://github.com/shivangraikar">shivangraikar</a>
             </td>
             <td align="center">
+              <a href="https://github.com/Re1uy">
+                <img src="https://avatars.githubusercontent.com/u/52073159?v=4" width="50px;" alt="Re1uy"/>
+                </a>
+              <br />
+             <a href="https://github.com/Re1uy">Re1uy</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/sb-child">
                 <img src="https://avatars.githubusercontent.com/u/55868015?v=4" width="50px;" alt="sb-child"/>
                 </a>
               <br />
              <a href="https://github.com/sb-child">sb-child</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/j0rtiz">
                 <img src="https://avatars.githubusercontent.com/u/58676509?v=4" width="50px;" alt="j0rtiz"/>
                 </a>
               <br />
              <a href="https://github.com/j0rtiz">j0rtiz</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/niko127">
                 <img src="https://avatars.githubusercontent.com/u/59310951?v=4" width="50px;" alt="niko127"/>
                 </a>
