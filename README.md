@@ -262,6 +262,13 @@
              <a href="https://github.com/zuxian">zuxian</a>
             </td>
             <td align="center">
+              <a href="https://github.com/DaYePython">
+                <img src="https://avatars.githubusercontent.com/u/31787077?v=4" width="50px;" alt="DaYePython"/>
+                </a>
+              <br />
+             <a href="https://github.com/DaYePython">DaYePython</a>
+            </td>
+            <td align="center">
               <a href="https://github.com/huangbohang">
                 <img src="https://avatars.githubusercontent.com/u/31870764?v=4" width="50px;" alt="huangbohang"/>
                 </a>
@@ -296,16 +303,16 @@
               <br />
              <a href="https://github.com/wiki6">wiki6</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/mangonihao">
                 <img src="https://avatars.githubusercontent.com/u/35483387?v=4" width="50px;" alt="mangonihao"/>
                 </a>
               <br />
              <a href="https://github.com/mangonihao">mangonihao</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/Khetwal-om">
                 <img src="https://avatars.githubusercontent.com/u/36092598?v=4" width="50px;" alt="Khetwal-om"/>
                 </a>
@@ -347,16 +354,16 @@
               <br />
              <a href="https://github.com/ljmjiudu">ljmjiudu</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/Yokioo">
                 <img src="https://avatars.githubusercontent.com/u/42674780?v=4" width="50px;" alt="Yokioo"/>
                 </a>
               <br />
              <a href="https://github.com/Yokioo">Yokioo</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/SilenceRichard">
                 <img src="https://avatars.githubusercontent.com/u/42994114?v=4" width="50px;" alt="SilenceRichard"/>
                 </a>
@@ -398,16 +405,16 @@
               <br />
              <a href="https://github.com/Re1uy">Re1uy</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/sb-child">
                 <img src="https://avatars.githubusercontent.com/u/55868015?v=4" width="50px;" alt="sb-child"/>
                 </a>
               <br />
              <a href="https://github.com/sb-child">sb-child</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/j0rtiz">
                 <img src="https://avatars.githubusercontent.com/u/58676509?v=4" width="50px;" alt="j0rtiz"/>
                 </a>
