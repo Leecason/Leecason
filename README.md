@@ -320,11 +320,11 @@
              <a href="https://github.com/mangonihao">mangonihao</a>
             </td>
             <td align="center">
-              <a href="https://github.com/Khetwal-om">
-                <img src="https://avatars.githubusercontent.com/u/36092598?v=4" width="50px;" alt="Khetwal-om"/>
+              <a href="https://github.com/omkhetwal">
+                <img src="https://avatars.githubusercontent.com/u/36092598?v=4" width="50px;" alt="omkhetwal"/>
                 </a>
               <br />
-             <a href="https://github.com/Khetwal-om">Khetwal-om</a>
+             <a href="https://github.com/omkhetwal">omkhetwal</a>
             </td>
             <td align="center">
               <a href="https://github.com/lyc8503">
