@@ -472,6 +472,13 @@
               <br />
              <a href="https://github.com/Jupnnn">Jupnnn</a>
             </td>
+            <td align="center">
+              <a href="https://github.com/edwardcpyung">
+                <img src="https://avatars.githubusercontent.com/u/96607401?v=4" width="50px;" alt="edwardcpyung"/>
+                </a>
+              <br />
+             <a href="https://github.com/edwardcpyung">edwardcpyung</a>
+            </td>
               </tr>
 </table>
 <!--END_SECTION:followers-->
