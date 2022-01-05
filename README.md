@@ -466,13 +466,6 @@
              <a href="https://github.com/pav324">pav324</a>
             </td>
             <td align="center">
-              <a href="https://github.com/4nalog">
-                <img src="https://avatars.githubusercontent.com/u/88684372?v=4" width="50px;" alt="4nalog"/>
-                </a>
-              <br />
-             <a href="https://github.com/4nalog">4nalog</a>
-            </td>
-            <td align="center">
               <a href="https://github.com/Jupnnn">
                 <img src="https://avatars.githubusercontent.com/u/93683618?v=4" width="50px;" alt="Jupnnn"/>
                 </a>
