@@ -450,15 +450,22 @@
              <a href="https://github.com/niko127">niko127</a>
             </td>
             <td align="center">
+              <a href="https://github.com/zacharykatsnelson">
+                <img src="https://avatars.githubusercontent.com/u/61557157?v=4" width="50px;" alt="zacharykatsnelson"/>
+                </a>
+              <br />
+             <a href="https://github.com/zacharykatsnelson">zacharykatsnelson</a>
+            </td>
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/neal-real">
                 <img src="https://avatars.githubusercontent.com/u/63453519?v=4" width="50px;" alt="neal-real"/>
                 </a>
               <br />
              <a href="https://github.com/neal-real">neal-real</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/pav324">
                 <img src="https://avatars.githubusercontent.com/u/78670862?v=4" width="50px;" alt="pav324"/>
                 </a>
