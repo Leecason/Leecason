@@ -348,15 +348,22 @@
              <a href="https://github.com/songispm">songispm</a>
             </td>
             <td align="center">
+              <a href="https://github.com/zxl7">
+                <img src="https://avatars.githubusercontent.com/u/39439752?v=4" width="50px;" alt="zxl7"/>
+                </a>
+              <br />
+             <a href="https://github.com/zxl7">zxl7</a>
+            </td>
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/kovoor">
                 <img src="https://avatars.githubusercontent.com/u/40061443?v=4" width="50px;" alt="kovoor"/>
                 </a>
               <br />
              <a href="https://github.com/kovoor">kovoor</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/ljmjiudu">
                 <img src="https://avatars.githubusercontent.com/u/42228457?v=4" width="50px;" alt="ljmjiudu"/>
                 </a>
@@ -398,16 +405,16 @@
               <br />
              <a href="https://github.com/sereneinserenade">sereneinserenade</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/Olvi73">
                 <img src="https://avatars.githubusercontent.com/u/46037012?v=4" width="50px;" alt="Olvi73"/>
                 </a>
               <br />
              <a href="https://github.com/Olvi73">Olvi73</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/shivangraikar">
                 <img src="https://avatars.githubusercontent.com/u/51766272?v=4" width="50px;" alt="shivangraikar"/>
                 </a>
@@ -449,16 +456,16 @@
               <br />
              <a href="https://github.com/niko127">niko127</a>
             </td>
-            <td align="center">
+              </tr>
+  <tr>
+<td align="center">
               <a href="https://github.com/zacharykatsnelson">
                 <img src="https://avatars.githubusercontent.com/u/61557157?v=4" width="50px;" alt="zacharykatsnelson"/>
                 </a>
               <br />
              <a href="https://github.com/zacharykatsnelson">zacharykatsnelson</a>
             </td>
-              </tr>
-  <tr>
-<td align="center">
+            <td align="center">
               <a href="https://github.com/neal-real">
                 <img src="https://avatars.githubusercontent.com/u/63453519?v=4" width="50px;" alt="neal-real"/>
                 </a>
