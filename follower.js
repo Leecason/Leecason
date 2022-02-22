@@ -57,6 +57,6 @@ const { GH_TOKEN: githubToken } = process.env;
     const newContent = getNewContent(followers);
     fs.writeFileSync(`${__dirname}/README.md`, newContent);
   } catch (err) {
-    console.error(`Unable to update followers \n${error}`);
+    console.error(`Unable to update followers \n${err}`);
   }
 })();
