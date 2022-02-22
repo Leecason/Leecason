@@ -39,11 +39,15 @@
 
 > 所有城市、岗位均可内推，可加我微信 `Leecason0722` 咨询详情，备注内推。
 
-**Experienced（社招）**：https://job.toutiao.com/s/evKxDHs
+**Experienced（社招）**：https://job.toutiao.com/s/LwUhcv9
 
-**Campus（校招）**：https://jobs.toutiao.com/s/evK5p7F
+**QR Code（二维码）**：<img src="/public/referral_qr_code.png" width="150">
 
-**My referral code（内推码）: F54K337**
+---
+
+**Campus（校招）**：https://jobs.toutiao.com/s/LwDpwsg
+
+**My referral code（校招内推码）: F54K337**
 
 ### My Followers
 
