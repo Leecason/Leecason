@@ -2,11 +2,12 @@
 
 <img align="right" src="https://github.com/Leecason/Leecason/raw/master/pikachu.gif" width="300">
 
-- 👨‍💻 **Working:** Web Development, a Vue.js, React.js nerd.
-- 🌱 **Learning:** Full-Stack | Open-Source 🔥
-- 😄 **Pronouns:** He/Him/His
-- 🏢 **Company:** [Bytedance](https://github.com/bytedance)
-- ⚡ **Fun fact:** Cantopop 🎧, Gunpla 🤖️, Lego 🧩
+- 👨‍💻 Developer at Bytedance
+- 👨‍🎓 UESTC
+- 📍 成都
+- 🍑 公众号：「小李的前端小屋」
+
+<img src="https://github.com/Leecason/Leecason/raw/master/wechat_qrcode.png" width="350">
 
 > El Psy Kongroo
 
